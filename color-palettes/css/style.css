@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+h4{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    font-size: 30px;
+    color: rgb(34, 100, 46);
+}
+p {
+    padding-top: 0px;
+    margin-top: 5px;
+}
+div{
+    padding: 10px;
+}
+.g1-c1 {
+    background-color: rgb(242, 224, 109);
+}
+.g1-c2 {
+    background-color: rgb(109, 202, 242);
+}
+.g1-c3 {
+    background-color: rgb(233, 255, 109);
+}
+.g1-c4 {
+    background-color: rgb(250, 150, 232);
+}
