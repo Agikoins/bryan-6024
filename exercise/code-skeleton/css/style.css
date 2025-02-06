@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Birthstone+Bounce:wght@400;500&family=Bonheur+Royale&family=Delius+Unicase:wght@400;700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Grechen+Fuemen&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Oswald:wght@200..700&family=Shrikhand&display=swap');
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the Bulletin Board assignment.
+
+    Good luck, and have fun!
+*/
+#bulletin-board div {
+    display: inline-block;
+    font-family: "Delius Unicase", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.post-it-1 {
+    background-color: orange;
+    width: 250px;
+    height: 270px;
+    font-size: 16px;
+    padding: 24px;
+    box-shadow: 1px 1px 5px black;
+    margin: 24px;
+}
+
+.post-it-1 div {
+    background-color: blue;
+    border-radius: 50%;
+    padding: 14px;
+    margin: 0px auto;
+}
+
+.post-it-1 h3 {
+    text-align: center;
+}
+
+.hiking {
+    width: 300px;
+    height: 250px;
+    box-shadow: 1px 2px 5px black;
+    margin: 24px 150px;
+}
+
+.post-it-3 {
+    background-color: #52d6fa;
+    width: 250px;
+    height: 270px;
+    margin: 24px;
+    box-shadow: 1px 1px 5px black;
+    text-align: center;
+    padding: 24px;
+    font-size: 25px;
+}
+
+.post-it-4 {
+    background-color: lime;
+    width: 250px;
+    height: 270px;
+    margin: 24px;
+    box-shadow: 1px 1px 5px black;
+    text-align: center;
+    padding: 24px;
+    font-size: 30px
+}
+
+.post-it-6 {
+    background-color: hotpink;
+    width: 250px;
+    height: 270px;
+    margin: 24px;
+    box-shadow: 1px 1px 5px black;
+    font-size: 15px;
+    padding: 24px;
+}
+
+
+.plane {
+    width: 250px;
+    height: 300px;
+    margin: 24px;
+    box-shadow: 2px 1px 5px black;
+}
